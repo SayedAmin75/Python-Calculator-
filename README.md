@@ -1,3 +1,4 @@
+
 # 🧮 Python Calculator
 
 A simple command-line calculator written in Python.  
@@ -17,10 +18,6 @@ or
 python3 --version
 
 2. Clone this repository or download the calculator.py file.
-
-git clone https://github.com/SayedAmin/Python-Calculator.git
-cd Python-Calculator
-
 
 3. Run the calculator:
 
